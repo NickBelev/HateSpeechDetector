@@ -44,7 +44,7 @@ This project requires Python 3.8 or greater and should be run entirely in Google
 - torch
 - ipywidgets
 
-To install any missing dependencies, (if Colab doesn't automatically install them upon the first execution of the import section, run the following:
+To install any missing dependencies, (if Colab doesn't automatically install them upon the first execution of the import section), run the following:
 
 ```bash
 !pip install pandas numpy matplotlib nltk spacy scikit-learn transformers torch ipywidgets
