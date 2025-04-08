@@ -14,6 +14,8 @@
 
 [NLP_Detector_Arab_Hate_Speech.ipynb](https://colab.research.google.com/drive/1KNUTPU-R82Nawmy3n6-hcmG1LFE7fBGk#scrollTo=N61tVed9Lk-J)
 
+Note that the formatting of widgets in, the data JSON for the notebook, causes the results to not be viewable on GitHub.
+
 ## Project Overview
 
 This project implements a comprehensive pipeline for detecting hate speech, with a particular emphasis on identifying anti-Arab and anti-Muslim sentiments. It employs text preprocessing techniques, named entity recognition (NER), keyword-based filtering, traditional machine learning models (TF-IDF vectorizer with Logistic Regression), and the state-of-the-art pretrained BERT transformer model from CNERG, (`dehatebert-mono-english`).
